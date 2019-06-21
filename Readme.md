@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Arrange EditForm editors on several ASPxPageControl pages
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e25/)**
+<!-- run online end -->
 
 
 <p>This sample demonstrates how to arrange EditForm editors on several ASPxPageControl pages in the ASPxGridView's EditFormTemplate.</p>
